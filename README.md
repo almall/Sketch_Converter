@@ -1,2 +1,3 @@
-# Sketch_Converter
+# Sketch converter
+
 Transform your images into sketches
